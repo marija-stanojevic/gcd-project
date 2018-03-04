@@ -1,4 +1,4 @@
-Getting and Cleaning Data - coursera course - Project
+<h2>Getting and Cleaning Data - coursera course - Project</h2>
 
 In this document you can find more details on how the code run_analysis.R cleans data and brings it to form easy to work with.
 
